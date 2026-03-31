@@ -1,0 +1,31 @@
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+
+# Android
+android/key.properties
+android/*.jks
+android/local.properties
+.gradle/
+.kotlin/
+captures/
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+*.iws
+
+# macOS
+.DS_Store
+
+# Temporary artifacts from AI edits
+build_log.txt
+build_log_2.txt
+replace_icons.py
+/tmp/
